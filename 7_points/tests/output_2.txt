@@ -1,0 +1,120 @@
+Client 8 come in 
+New client 0 is watching paint number 3
+Client 0 finished watching the paint number 3
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 2
+Client 2 finished watching the paint number 2
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 8 left
+Client 2 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 2 left
+Client 1 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 1 left
+Client 7 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 3
+Client 1 finished watching the paint number 3
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 1
+Client 4 finished watching the paint number 1
+Client 7 left
+Client 3 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 3
+Client 3 finished watching the paint number 3
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 3 left
+Client 6 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 3
+Client 3 finished watching the paint number 3
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 6 left
+Client 5 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 5 left
+Client 9 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 2
+Client 2 finished watching the paint number 2
+New client 3 is watching paint number 3
+Client 3 finished watching the paint number 3
+New client 4 is watching paint number 0
+Client 4 finished watching the paint number 0
+Client 9 left
+Client 4 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 0
+Client 2 finished watching the paint number 0
+New client 3 is watching paint number 4
+Client 3 finished watching the paint number 4
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 4 left
+Client 10 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 0
+Client 2 finished watching the paint number 0
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 10 left

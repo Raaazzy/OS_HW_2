@@ -1,0 +1,12 @@
+Client 1 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 3
+Client 1 finished watching the paint number 3
+New client 2 is watching paint number 2
+Client 2 finished watching the paint number 2
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 1 left
