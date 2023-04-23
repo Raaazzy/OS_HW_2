@@ -1,0 +1,9 @@
+Number of clients: 1
+Number of paints: 5
+Client 1 watched paint 1 with 1 viewers
+Client 1 watched paint 2 with 1 viewers
+Client 1 watched paint 3 with 1 viewers
+Client 1 watched paint 4 with 1 viewers
+Client 1 watched paint 5 with 1 viewers
+Number of clients: 1
+Number of paints: 5

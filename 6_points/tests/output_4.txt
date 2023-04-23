@@ -1,0 +1,5 @@
+Number of clients: 1
+Number of paints: 1
+Client 1 watched paint 1 with 1 viewers
+Number of clients: 1
+Number of paints: 1

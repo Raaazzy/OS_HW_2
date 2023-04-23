@@ -1,0 +1,36 @@
+Number of clients: 11
+Number of paints: 1
+Client 1 watched paint 1 with 5 viewers
+Number of clients: 11
+Number of paints: 1
+Client 7 watched paint 1 with 7 viewers
+Number of clients: 11
+Number of paints: 1
+Client 2 watched paint 1 with 7 viewers
+Number of clients: 11
+Number of paints: 1
+Client 3 watched paint 1 with 7 viewers
+Number of clients: 11
+Number of paints: 1
+Client 10 watched paint 1 with 5 viewers
+Number of clients: 11
+Number of paints: 1
+Client 8 watched paint 1 with 8 viewers
+Number of clients: 11
+Number of paints: 1
+Client 6 watched paint 1 with 7 viewers
+Number of clients: 11
+Number of paints: 1
+Client 5 watched paint 1 with 7 viewers
+Number of clients: 11
+Number of paints: 1
+Client 4 watched paint 1 with 9 viewers
+Number of clients: 11
+Number of paints: 1
+Client 9 watched paint 1 with 10 viewers
+Number of clients: 11
+Number of paints: 1
+Client 11 is waiting for paint 1
+Client 11 watched paint 1 with 11 viewers
+Number of clients: 11
+Number of paints: 1

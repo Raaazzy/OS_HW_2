@@ -1,0 +1,92 @@
+Number of clients: 15
+Number of paints: 3
+Client 3 watched paint 1 with 1 viewers
+Client 3 watched paint 2 with 1 viewers
+Client 3 watched paint 3 with 1 viewers
+Number of clients: 15
+Number of paints: 3
+Client 10 watched paint 1 with 2 viewers
+Client 10 watched paint 2 with 2 viewers
+Client 10 watched paint 3 with 2 viewers
+Number of clients: 15
+Number of paints: 3
+Client 5 watched paint 1 with 9 viewers
+Client 5 is waiting for paint 2
+Client 5 watched paint 2 with 12 viewers
+Client 5 watched paint 3 with 4 viewers
+Number of clients: 15
+Number of paints: 3
+Client 12 watched paint 1 with 13 viewers
+Client 12 watched paint 2 with 9 viewers
+Client 12 watched paint 3 with 9 viewers
+Number of clients: 15
+Number of paints: 3
+Client 2 is waiting for paint 1
+Client 2 watched paint 1 with 11 viewers
+Client 2 watched paint 2 with 8 viewers
+Client 2 watched paint 3 with 9 viewers
+Number of clients: 15
+Number of paints: 3
+Client 11 watched paint 1 with 13 viewers
+Client 11 is waiting for paint 2
+Client 11 watched paint 2 with 13 viewers
+Client 11 watched paint 3 with 9 viewers
+Number of clients: 15
+Number of paints: 3
+Client 13 is waiting for paint 1
+Client 13 watched paint 1 with 12 viewers
+Client 13 watched paint 2 with 10 viewers
+Client 13 watched paint 3 with 10 viewers
+Number of clients: 15
+Number of paints: 3
+Client 14 is waiting for paint 1
+Client 14 watched paint 1 with 13 viewers
+Client 14 is waiting for paint 2
+Client 14 watched paint 2 with 11 viewers
+Client 14 watched paint 3 with 10 viewers
+Number of clients: 15
+Number of paints: 3
+Client 6 watched paint 1 with 8 viewers
+Client 6 watched paint 2 with 7 viewers
+Client 6 watched paint 3 with 10 viewers
+Number of clients: 15
+Number of paints: 3
+Client 15 watched paint 1 with 10 viewers
+Client 15 watched paint 2 with 3 viewers
+Client 15 watched paint 3 with 10 viewers
+Number of clients: 15
+Number of paints: 3
+Client 7 watched paint 1 with 7 viewers
+Client 7 watched paint 2 with 6 viewers
+Client 7 is waiting for paint 3
+Client 7 watched paint 3 with 11 viewers
+Number of clients: 15
+Number of paints: 3
+Client 9 watched paint 1 with 5 viewers
+Client 9 watched paint 2 with 4 viewers
+Client 9 is waiting for paint 3
+Client 9 watched paint 3 with 12 viewers
+Number of clients: 15
+Number of paints: 3
+Client 1 is waiting for paint 1
+Client 1 watched paint 1 with 14 viewers
+Client 1 is waiting for paint 2
+Client 1 watched paint 2 with 14 viewers
+Client 1 is waiting for paint 3
+Client 1 watched paint 3 with 13 viewers
+Number of clients: 15
+Number of paints: 3
+Client 8 watched paint 1 with 6 viewers
+Client 8 watched paint 2 with 5 viewers
+Client 8 is waiting for paint 3
+Client 8 watched paint 3 with 14 viewers
+Number of clients: 15
+Number of paints: 3
+Client 4 is waiting for paint 1
+Client 4 watched paint 1 with 15 viewers
+Client 4 is waiting for paint 2
+Client 4 watched paint 2 with 15 viewers
+Client 4 is waiting for paint 3
+Client 4 watched paint 3 with 15 viewers
+Number of clients: 15
+Number of paints: 3
