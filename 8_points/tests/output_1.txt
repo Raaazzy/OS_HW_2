@@ -1,0 +1,360 @@
+Client 17 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 3
+Client 1 finished watching the paint number 3
+New client 2 is watching paint number 0
+Client 2 finished watching the paint number 0
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 17 left
+Client 28 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 3
+Client 3 finished watching the paint number 3
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 28 left
+Client 9 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 9 left
+Client 5 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 5 left
+Client 4 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 4 left
+Client 18 come in 
+New client 0 is watching paint number 3
+Client 0 finished watching the paint number 3
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 18 left
+Client 25 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 25 left
+Client 27 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 3
+Client 1 finished watching the paint number 3
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 27 left
+Client 29 come in 
+New client 0 is watching paint number 3
+Client 0 finished watching the paint number 3
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 4
+Client 3 finished watching the paint number 4
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 29 left
+Client 6 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 6 left
+Client 24 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 0
+Client 2 finished watching the paint number 0
+New client 3 is watching paint number 3
+Client 3 finished watching the paint number 3
+New client 4 is watching paint number 1
+Client 4 finished watching the paint number 1
+Client 24 left
+Client 7 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 7 left
+Client 11 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 11 left
+Client 30 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 30 left
+Client 26 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 1
+Client 4 finished watching the paint number 1
+Client 26 left
+Client 16 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 2
+Client 2 finished watching the paint number 2
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 16 left
+Client 8 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 8 left
+Client 14 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 14 left
+Client 12 come in 
+New client 0 is watching paint number 0
+Client 0 finished watching the paint number 0
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 2
+Client 3 finished watching the paint number 2
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 12 left
+Client 19 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 0
+Client 2 finished watching the paint number 0
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 19 left
+Client 3 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 3 left
+Client 22 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 0
+Client 1 finished watching the paint number 0
+New client 2 is watching paint number 2
+Client 2 finished watching the paint number 2
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 22 left
+Client 23 come in 
+New client 0 is watching paint number 4
+Client 0 finished watching the paint number 4
+New client 1 is watching paint number 3
+Client 1 finished watching the paint number 3
+New client 2 is watching paint number 2
+Client 2 finished watching the paint number 2
+New client 3 is watching paint number 1
+Client 3 finished watching the paint number 1
+New client 4 is watching paint number 0
+Client 4 finished watching the paint number 0
+Client 23 left
+Client 10 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 3
+Client 3 finished watching the paint number 3
+New client 4 is watching paint number 0
+Client 4 finished watching the paint number 0
+Client 10 left
+Client 1 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 1 left
+Client 15 come in 
+New client 0 is watching paint number 3
+Client 0 finished watching the paint number 3
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 4
+Client 3 finished watching the paint number 4
+New client 4 is watching paint number 0
+Client 4 finished watching the paint number 0
+Client 15 left
+Client 21 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 4
+Client 2 finished watching the paint number 4
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 3
+Client 4 finished watching the paint number 3
+Client 21 left
+Client 20 come in 
+New client 0 is watching paint number 2
+Client 0 finished watching the paint number 2
+New client 1 is watching paint number 1
+Client 1 finished watching the paint number 1
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 4
+Client 4 finished watching the paint number 4
+Client 20 left
+Client 13 come in 
+New client 0 is watching paint number 3
+Client 0 finished watching the paint number 3
+New client 1 is watching paint number 4
+Client 1 finished watching the paint number 4
+New client 2 is watching paint number 1
+Client 2 finished watching the paint number 1
+New client 3 is watching paint number 0
+Client 3 finished watching the paint number 0
+New client 4 is watching paint number 2
+Client 4 finished watching the paint number 2
+Client 13 left
+Client 2 come in 
+New client 0 is watching paint number 1
+Client 0 finished watching the paint number 1
+New client 1 is watching paint number 2
+Client 1 finished watching the paint number 2
+New client 2 is watching paint number 3
+Client 2 finished watching the paint number 3
+New client 3 is watching paint number 4
+Client 3 finished watching the paint number 4
+New client 4 is watching paint number 0
+Client 4 finished watching the paint number 0
+Client 2 left
